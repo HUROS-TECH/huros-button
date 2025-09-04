@@ -2,4 +2,4 @@
 > work on arduino IDE
 
 ### Copyright 
-> Huros Tech
+> Huros
